@@ -112,7 +112,6 @@ websiteEntry.focus()
 
 usernameEntry = Entry()
 usernameEntry.grid(row=2, column=1, columnspan=2, sticky="ew")
-usernameEntry.insert(0, "mari.mirz141@gmail.com")
 
 passwordEntry = Entry()
 passwordEntry.grid(row=3, column=1, sticky="ew")
